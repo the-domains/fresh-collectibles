@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Fresh Collectibles]]></title>
         <description><![CDATA[Fresh Collectibles]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fresh-collectibles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 17:57:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 07 Feb 2016 18:34:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fresh-collectibles/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Sens Hockey Cards</p>]]></description>
-            <link>undefined2bca464a-ea47-41d9-a598-dd248752a86e/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/040568bc-1a75-4d23-9d30-cfc4e67ffc9c.jpg">]]></description>
+            <link>https://thegrid.ai/fresh-collectibles/2bca464a-ea47-41d9-a598-dd248752a86e/index.html</link>
             <guid isPermaLink="false">2bca464a-ea47-41d9-a598-dd248752a86e</guid>
-            <pubDate>Sun, 07 Feb 2016 17:57:16 GMT</pubDate>
+            <pubDate>Sun, 07 Feb 2016 18:33:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
