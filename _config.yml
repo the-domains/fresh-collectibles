@@ -1,6 +1,6 @@
 name: Fresh Collectibles
 favicon: null
-layout_spectrum: 0.973
+layout_spectrum: 0.59499
 typography_spectrum: 0.1008
 title: Fresh Collectibles - the Personal Collection
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fefefe'
-    - '#040605'
-    - '#f4030a'
-    - '#5a5aa4'
-    - '#d59e0e'
-  brandStrength: 0.25
-  lightness: 0.375
-  saturation: 0.75
+    - '#e4d6cd'
+    - '#ae9ba1'
+    - '#111230'
+    - '#675a64'
+    - '#bf4f0d'
+  brandStrength: 0.75
+  lightness: 0.625
+  saturation: 0.1875
   rhythmicContrast: 0.25
 purpose: []
